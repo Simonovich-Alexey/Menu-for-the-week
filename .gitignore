@@ -1,0 +1,5 @@
+.idea/
+menu-venv/
+sourse/
+test.py
+.env
