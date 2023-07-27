@@ -1,5 +1,6 @@
 .idea/
-menu-venv/
+venv/
 sourse/
+database/
 test.py
 .env
