@@ -1,6 +1,6 @@
 .idea/
 venv/
 sourse/
-database/
+database/menu_week.db
 test.py
 .env
